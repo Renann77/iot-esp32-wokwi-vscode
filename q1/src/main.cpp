@@ -10,7 +10,7 @@
 
 // Configurações de WiFi
 const char *SSID = "Wokwi-GUEST";
-const char *PASSWORD = "";  // Substitua pelo sua senha
+const char *PASSWORD = "";  
 
 // Configurações de MQTT
 const char *BROKER_MQTT = "broker.hivemq.com";
