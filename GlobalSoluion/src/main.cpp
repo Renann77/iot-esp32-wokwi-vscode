@@ -1,7 +1,6 @@
 /////////--------IOT--------FIAP------------///////////
 
 #include <Arduino.h>
-
 #include <WiFi.h>
 #include <ArduinoJson.h>
 #include <DHTesp.h>
