@@ -1,4 +1,4 @@
-/////////--------IOT--------FIAP------------///////////
+
 
 #include <Arduino.h>
 #include <WiFi.h>
